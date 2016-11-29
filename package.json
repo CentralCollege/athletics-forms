@@ -1,0 +1,15 @@
+{
+  "name": "athletics-central-local",
+  "description": "A FormStack template for the athletics website.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacoboyen/"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
